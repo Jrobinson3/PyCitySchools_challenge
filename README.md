@@ -24,6 +24,6 @@ per below analysis, charter schools are performing much better than district sch
 ![image](https://github.com/Jrobinson3/PyCitySchools_challenge/blob/main/4.png)
 3. Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 1) Thomas was not one of top 5 schools that are overall passing rate over 90%.  
-2) Passing math rate was decreased from 93.2 to 66.9
-3)Passing reading rate was decreased from 97.3 to  69.7 as well as overall passing rate. 
+2) Passing math rate was decreased from 93.2% to 66.9%.
+3)Passing reading rate was decreased from 97.3%. to  69.7%. as well as overall passing rate. 
 4) Overall charter school's performance was decreased due to Thomas High School's 9th graders replacement. 
